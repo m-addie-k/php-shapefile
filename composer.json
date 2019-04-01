@@ -18,7 +18,8 @@
     },
     "autoload": {
         "psr-4": {
-            "ShapeFile\\": "src/"
+            "ShapeFile\\": "src/",
+            "\\": "src/"
         }
     }
 }
